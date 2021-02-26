@@ -39,7 +39,7 @@ O projeto está utilizando as seguintes tecnologias:
 -  [react-icons](https://react-icons.github.io/react-icons/)
 
 ## :gear: Como rodar
-Para clonar e rodar esse projeto você vai precisar do [Node](https://nodejs.org/en/) do [Yarn](https://yarnpkg.com/) ou do [Npm](https://www.npmjs.com/get-npm) e do [Git](https://git-scm.com/) instalado na rua máquina.
+Para clonar e rodar esse projeto você vai precisar do [Node](https://nodejs.org/en/) do [Yarn](https://yarnpkg.com/) ou do [Npm](https://www.npmjs.com/get-npm) e do [Git](https://git-scm.com/) instalado na sua máquina.
 
 ```bash
 # Faça o clone deste repositório para qualquer pasta de sua preferencia
